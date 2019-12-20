@@ -1,0 +1,6 @@
+argparse
+requests
+re
+pimento
+tomcatmanager
+
